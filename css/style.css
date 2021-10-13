@@ -1,0 +1,27 @@
+
+body{
+    font-family: verdana;
+}
+.navbar{
+
+    background: rgb(56, 85, 10);
+}
+
+.quemsomos{
+    background-color: rgb(71, 75, 75);
+    color: rgb(217, 223, 223);
+}
+
+.margem{
+  
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(118, 148, 148);
+    color: rgb(217, 223, 223);
+}
+.footer{
+    background-color: black;
+    color:azure
+}
